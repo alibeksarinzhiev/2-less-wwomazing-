@@ -60,7 +60,7 @@
     font-weight: 500;
 }
 .title{
-    font-size: 17x;
+    font-size: 17px;
     font-weight: 500;
     margin-top: 26px;
 }
@@ -92,6 +92,8 @@
     display: flex;
     justify-content: space-between;
     margin-top: 95px;
+    flex-wrap: wrap;
+    margin-bottom: 70px;
 }
 .left-card , .mid-card , .right-card{
     width: 30%;
@@ -108,7 +110,7 @@
 .price{
     font-size: 15px;
     color: #998E78;
-    margin-bottom: 70px;
+
 }
 .btn2{
     background: none;
